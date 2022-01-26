@@ -1,0 +1,48 @@
+{"opciones":
+    [
+        {
+            "opc1":
+            [
+                "Que quieres hacer?","1: Tomar la fotograifa, 2: Ver el reloj, 3: Diario de campo"
+            ]
+
+        },
+        {
+            "foto":
+            [
+                "Tomas la instantánea. Está un poco borrosa, pero aún se conserva a pesar de los años. En ella ves una familia de tres miembros, un padre, una madre, y una pequeña niña.",
+                "La volteas y se lee una fecha: 18/11/2132, misma fecha de la batalla de West Haven, misma fecha en donde lo perdiste todo."
+            ],            
+            "reloj":
+            [
+                "Tomas el reloj. Notas que ya el tiempo le ha pasado factura, el cristal está trozado y el metal un poco oxidado.",
+                "Le das la vuelta, y lees una inscripción grabada en el metal: Con cariño para el mejor papá y esposo. Lily y Rose.",
+                "Guardas el reloj en un cajón del buró"
+            ],
+            "diario":
+            [
+                "En el diario de campo te encuentras que las paginas estan en blanco"
+            ]
+        },
+        {
+            "opc2":
+            [
+                "El subteniente Harper te indica el camino hacia la oficina del general Hamilton, pero no te puede acompañar porque tiene que ir con el resto del pelotón.",
+                "Caminas por un largo pasillo y ves la habitación de registros. ","¿Qué quieres hacer ahora? 1: Entrar a la habitacion de registros o 2: Seguir tu camino"
+            ]
+        },
+        {
+            "cap":
+            [
+                "Encuentras una capsula, la capsula esta marcada con un nombre: M. Bustamante"
+            ]
+        },
+        {
+            "boc":
+            [
+                "Vas por un bocadillo"
+            ]
+        }
+    ]
+
+}

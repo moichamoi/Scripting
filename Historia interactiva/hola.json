@@ -1,0 +1,35 @@
+{"historia":
+   
+    [
+        {
+            "part1": 
+            [
+                "15/07/2137",
+                " Te levantas de tu cápsula. Apenas te adaptas a la luz y ves una silueta.",
+                "—Senor! El general Hamilton lo busca en su despacho —dijo el subteniente Mark Harper.",
+                "1: Voy en camino o 2:Dile que ire en 5 minutos"
+            ]
+            
+        },
+        {
+            "vec": 
+            [
+                "—Voy en camino"
+            ]
+        },
+        {
+            "5min":
+            [
+                "—Dile que iré en 5 minutos.",
+
+                "¿Qué quieres hacer?",
+
+                "1: Revisar buro, 2: Revisar capsulas, 3: Ir por un bocadillo"
+                
+            ]
+        }
+    ]
+ 
+ 
+    
+}
